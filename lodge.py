@@ -5,6 +5,7 @@ numbers = {23, 90, 56, 78, 12, 34, 67}
 numbers.add(50)
 # Print the set values
 print(numbers)
+print(numbers)
 
 message = "Number is not found"
 
@@ -16,4 +17,5 @@ for val in numbers:
         message = "Number is found"
         break
 
+print(numbers)
 print(message)
